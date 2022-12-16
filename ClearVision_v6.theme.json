@@ -1,17 +1,17 @@
 {
-	"name": "Pixelboy",
+	"name": "hoangmoi",
 	"version": "1.0",
-	"description": "A color palette inspired by @_Kennyroo 4k follower wallpaper.",
+	"description": "moi",
 	"color": "#20202A",
         "authors": [
 		{
-			"name": "pwn",
+			"name": "moi",
 			"id": "138707258514210817"
 		}
 	],
 	"background": {
 		"blur": 0,
-		"url": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/hinh-nen-galaxy-dep.jpg",
+		"url": "https://clearvision.github.io/images/sapphire.jpg",
 		"alpha": 1
 	},
 	"theme_color_map": {
